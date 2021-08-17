@@ -1,0 +1,58 @@
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\appsettings.json
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.StaticWebAssets.xml
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.exe
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.deps.json
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.runtimeconfig.json
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.runtimeconfig.dev.json
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\ref\New blazor App.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.pdb
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.Views.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\bin\Debug\net5.0\New blazor App.Views.pdb
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.csproj.AssemblyReference.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.AssemblyInfoInputs.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.AssemblyInfo.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.csproj.CoreCompileInputs.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorComponent.input.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorComponent.output.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\RazorDeclaration\New blazor App.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.TagHelpers.input.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.TagHelpers.output.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorCoreGenerate.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorAssemblyInfo.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorAssemblyInfo.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\staticwebassets\New blazor App.StaticWebAssets.Manifest.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\staticwebassets\New blazor App.StaticWebAssets.xml
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\scopedcss\bundle\New blazor App.styles.css
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\scopedcss\projectbundle\New blazor App.bundle.scp.css
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorTargetAssemblyInfo.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.RazorTargetAssemblyInfo.cs
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.Views.pdb
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\ref\New blazor App.dll
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.pdb
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.genruntimeconfig.cache
+C:\Users\jilug\OneDrive\Desktop\PRT585\Jilu-S331717\Week 1\New blazor App\obj\Debug\net5.0\New blazor App.csproj.CopyComplete
