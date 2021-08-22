@@ -144,3 +144,8 @@ C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\bin\Debug\net5.0\runt
 C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\monsi\Desktop\PRT585\Alvin-s290871\Week2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
