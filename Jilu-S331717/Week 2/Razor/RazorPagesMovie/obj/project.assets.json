@@ -7153,11 +7153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jilug\\OneDrive\\Desktop\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\jilug\\OneDrive\\Documents\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\jilug\\OneDrive\\Desktop\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\jilug\\OneDrive\\Documents\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\jilug\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jilug\\OneDrive\\Desktop\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\jilug\\OneDrive\\Documents\\PRT585\\S221-PRT-585-Group-C-\\Jilu-S331717-week2\\Jilu-S331717\\Week 2\\Razor\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jilug\\AppData\\Roaming\\NuGet\\NuGet.Config",
