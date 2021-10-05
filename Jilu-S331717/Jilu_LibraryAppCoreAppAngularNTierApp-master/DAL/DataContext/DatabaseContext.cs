@@ -46,6 +46,8 @@ namespace DAL.DataContext
         public DbSet<Unit> Units { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
         public DbSet<Course> Courses { get; set; }
+        public DbSet<Movie> Movies { get; set; }
+
 
 
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
