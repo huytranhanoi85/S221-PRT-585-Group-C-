@@ -7338,28 +7338,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\monsi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jilug\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monsi\\source\\repos\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\jilug\\OneDrive\\Documents\\N TIER\\Alvin-s290871\\week 7\\angularcrud\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "C:\\Users\\monsi\\source\\repos\\PaymentAPI\\PaymentAPI.csproj",
-      "packagesPath": "C:\\Users\\monsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monsi\\source\\repos\\PaymentAPI\\obj\\",
+      "projectPath": "C:\\Users\\jilug\\OneDrive\\Documents\\N TIER\\Alvin-s290871\\week 7\\angularcrud\\PaymentAPI\\PaymentAPI.csproj",
+      "packagesPath": "C:\\Users\\jilug\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jilug\\OneDrive\\Documents\\N TIER\\Alvin-s290871\\week 7\\angularcrud\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\monsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\jilug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
